@@ -84,7 +84,7 @@ import kotlin.random.Random
 
 /**
  * Parse useful data with [InnerTube] sending requests.
- * Modified from [ViMusic](https://github.com/vfsfitvnm/ViMusic) and [Veltune](https://github.com.metrolist/veltune)
+ * Modified from [ViMusic](https://github.com/vfsfitvnm/ViMusic) and [Veltune](https://github.com/VeltuneGroup/Veltune)
  */
 object YouTube {
     private val innerTube = InnerTube()
