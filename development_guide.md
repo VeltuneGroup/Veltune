@@ -1,6 +1,6 @@
 # Metrolist Dev Guide
 
-This file outlines the process of setting up a local dev environment for Metrolist.
+This file outlines the process of setting up a local dev environment for Veltune.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ This has been tested on Linux, but should work on other platforms with some adju
 
 ```bash
 git clone https://github.com/VeltuneGroup/Veltune
-cd Metrolist
+cd Veltune
 git submodule update --init --recursive
 cd app
 bash generate_proto.sh
