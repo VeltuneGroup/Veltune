@@ -178,6 +178,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><strong><a href="https://github.com/MetrolistGroup/Metrolist">Metrolist</a></strong></td>
+      <td><a href="https://github.com/mostafaalagamy">Mo Agamy</a> · <a href="https://github.com/adrielGGmotion">Adriel</a> · <a href="https://github.com/nyxiereal">nyxiereal</a> · <a href="https://github.com/alltechdev">alltechdev</a></td>
+    </tr>
+    <tr>
       <td><strong>InnerTune</strong></td>
       <td><a href="https://github.com/z-huang">Zion Huang</a> · <a href="https://github.com/Malopieds">Malopieds</a></td>
     </tr>
