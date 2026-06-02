@@ -1,3 +1,9 @@
+---v13.4.4
+# Major changes
+- Fixed playback breaking due to InnerTube's API changing again
+
+**Full Changelog**: https://github.com/VeltuneGroup/Veltune/compare/v13.4.3...v13.4.4
+
 ---v13.4.3
 # MAINTENANCE MODE
 Metrolist is currently in maintenance mode. This means we will only be fixing bugs and making minor improvements. Please do not submit PRs for new features or major changes, as they will not be accepted.
