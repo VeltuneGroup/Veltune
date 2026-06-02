@@ -8,10 +8,6 @@
 
 <br/>
 
-<a href="https://trendshift.io/repositories/20652" target="_blank"><img src="https://trendshift.io/api/badge/repositories/20652" alt="VeltuneGroup%2FVeltune | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-<br/>
-
 [![Latest release](https://img.shields.io/github/v/release/VeltuneGroup/Veltune?style=for-the-badge&labelColor=0d1117)](https://github.com/VeltuneGroup/Veltune/releases)
 [![License](https://img.shields.io/github/license/VeltuneGroup/Veltune?style=for-the-badge&labelColor=0d1117)](https://github.com/VeltuneGroup/Veltune/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/github/downloads/VeltuneGroup/Veltune/total?style=for-the-badge&labelColor=0d1117)](https://github.com/VeltuneGroup/Veltune/releases)
@@ -160,38 +156,6 @@
     </tr>
   </tbody>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-<h1><a id="faq"></a>FAQ</h1>
-
-<h3>Got questions? Check out our <a href="https://github.com/VeltuneGroup/Veltune/wiki">FAQ page</a> for answers to the most common ones!</h3>
-
-</div>
-
----
-
-<div align="center">
-
-<h1><a id="support-the-project"></a>Support the Project</h1>
-
-<h3>Veltune is free and open-source. If it brings you joy, consider supporting its development!</h3>
-
-<div align="center">
-
-### Monero (XMR)
-
-<img src="https://github.com/VeltuneGroup/Veltune/blob/main/assets/XMR.png" alt="Monero QR code" width="150" />
-
-```text
-44XjSELSWcgJTZiCKzjpCQWyXhokrH9RqH3rpp35FkSKi57T25hniHWHQNhLeXyFn3DDYqufmfRB1iEtENerZpJc7xJCcqt
-```
-
-</div>
 
 </div>
 
